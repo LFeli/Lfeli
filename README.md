@@ -1,4 +1,4 @@
-## Opa beleza ? Eu sou o Lucas Araújo
+## Opa beleza ? Eu sou o Lucas Araújo 💻
 ### Seja bem vindo(a) ao meu perfil
 
 - 📘Estou cursando Analise e Desenvolvimento de Sistmas na FATEC
