@@ -1,7 +1,7 @@
 ## Opa beleza ? Eu sou o Lucas Araújo 💻
 ### Seja bem vindo(a) ao meu perfil
 
-- 📘Estou cursando Analise e Desenvolvimento de Sistmas na FATEC
+- 📘Estou cursando Análise e Desenvolvimento de Sistmas na FATEC
 - 📌Atualmente estudando sobre front-end e a faculdade claro (☞ﾟヮﾟ)☞
 - 🗓 Sempre gosto de aprender coisas novas
 
