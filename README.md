@@ -2,7 +2,7 @@
 ### Seja bem vindo(a) ao meu perfil
 
 - 📘Estou cursando Análise e Desenvolvimento de Sistmas na FATEC
-- 📌Atualmente estudando sobre front-end e a faculdade claro (☞ﾟヮﾟ)☞
+- 📌Atualmente estudando sobre front-end, UI/UX e a faculdade claro (☞ﾟヮﾟ)☞
 - 🗓 Sempre gosto de aprender coisas novas
 
 <div>
