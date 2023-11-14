@@ -2,7 +2,7 @@
 
 I'm Lucas, Front-End developer and UI designer
 
-- 🌱 Currently learning about React, Next.js, TailwindCSS and Design concepts.
+- 🌱 Currently learning about React, Next.js, Node.js, React-Native and Design concepts.
 - 📘 I'm studying Analysis and Systems Development at FATEC.
 - 🚀 Always seeking ways to craft unique web experiences.
 
