@@ -29,6 +29,7 @@ I'm **Lucas (LFeli)**, a **Front-End Developer** and **UI Designer**, currently 
 #### ⚙️ Back-End  
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="35" /> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/fastify/fastify-original.svg" height="35" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="35" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="35" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="35" /> &nbsp;
@@ -36,6 +37,7 @@ I'm **Lucas (LFeli)**, a **Front-End Developer** and **UI Designer**, currently 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" height="35" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg" height="35" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" height="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" />
 </div>
 
 #### 📱 Mobile  
