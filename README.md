@@ -66,14 +66,6 @@ I'm **Lucas (LFeli)**, a **Front-End Developer** and **UI Designer**, currently 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" height="35" />
 </div>
 
-## 📈 GitHub Stats  
-<div>
-  <a href="https://github.com/LFeli">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LFeli&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LFeli&layout=compact&langs_count=7&theme=github_dark"/>
-  </a>
-</div>
-
 ### 🎉 Contribution Graph  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LFeli/Lfeli/output/github-contribution-grid-snake-dark.svg">
